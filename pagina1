@@ -5,7 +5,7 @@
 </head>
 <body>
   <h1>Esta es la pagina 1</h1>
-  <a href="index.html" target="_blank" >visita mi pagina principal</a>
+  <a href="index.html">visita mi pagina principal</a>
   <img scr="1.jpg"/>
 </body>
 </html>
